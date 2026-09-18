@@ -536,6 +536,7 @@ TypeSafe's name for a model class built for fast, structured decisions inside so
 - [awesome-jev (AnotiaWang)](https://github.com/AnotiaWang/awesome-jev) - Community list of Jev applications, libraries, and resources. English and 简体中文.
 - [awesome-jev (yibie)](https://github.com/yibie/awesome-jev) - Jev projects and discussions organized by application domain.
 - [awesome-jev-by-typesafe (Anil-matcha)](https://github.com/Anil-matcha/awesome-jev-by-typesafe) - Evidence-backed use cases, patterns, and starter code.
+- [awesome-jev-typesafe (valentynkit)](https://github.com/valentynkit/awesome-jev-typesafe) - CC0, awesome-lint clean, sorted by what you would install, with a short know-before-you-build section on the limits.
 - [typesafe-ai on PyPI](https://pypi.org/project/typesafe-ai/) - Community redirect shim; the real package is `typesafe-sdk`. Registered to block slopsquatting.
 
 ## Contribute

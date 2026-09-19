@@ -314,6 +314,8 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 
 → [More robotics and devices on madewithjev.com](https://madewithjev.com/categories/robotics-and-devices)
 
+- [Jev Web Analyzer](https://github.com/replynodes/jev-web-analyzer) - Product evaluation: evaluates a public SaaS landing page as clean Markdown with ten bounded Jev `Choice` questions about first-visit understanding, leaving validation, policy, and presentation in application code.
+
 ## Demos and games
 
 Toys, live sites, and realtime agents. Most shipped in the first days after launch.

@@ -282,6 +282,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [jev-tree](https://github.com/reachjalil/jev-tree) - Recursive Choice over a taxonomy so catalogs larger than Jev's 255-option cap still fit.
 - [Notra](https://github.com/usenotra/notra) - Marketing analytics: its `NOTRA_JEV_CLASSIFIERS` flag routes brand-visibility classifiers off an LLM and onto Jev boolean decisions at a 0.5 threshold, targeting 300 ms p50.
 - [jev-eval-agent](https://github.com/vinilana/jev-eval-agent) - Public eval harness for early Jev tests.
+- [Supercov](https://github.com/supercorp-ai/supercov) - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first.
 
 ### Model routing
 

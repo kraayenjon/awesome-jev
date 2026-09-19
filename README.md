@@ -342,6 +342,7 @@ Toys, live sites, and realtime agents. Most shipped in the first days after laun
 
 Tools that expose Jev to coding agents and MCP clients.
 
+- [DGP (Decision Graph Protocol)](https://github.com/numerous-com/dgp) - Experimental decision protocol whose Jev adapter evaluates framed evidence with typed choices, while application code validates permissions and commits simulated demo actions.
 - [TypeSafe agent skill](https://github.com/typesafe-ai/skills) - Official skill: primitives, patterns, and how to structure evaluations. Claude Code: `claude plugin marketplace add typesafe-ai/skills` then `claude plugin install typesafe@typesafe-ai`. Other agents: `npx skills add typesafe-ai/skills --skill typesafe-ai`.
 - [eve](https://github.com/vercel/eve) - Vercel's agent framework. Experimental `autoModel` defaults to Gateway `typesafe-ai/jev` to pick a language model from an allowlist.
 - [AI CLI](https://github.com/vercel-labs/ai-cli) - Vercel Labs CLI that can run Jev as the evaluation model for its `evaluate` command.

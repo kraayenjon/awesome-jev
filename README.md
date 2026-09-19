@@ -432,6 +432,7 @@ Official, copy-pasteable workflows. Full index: [console cookbooks](https://cons
 - [Classification using confidence](https://docs.typesafe.ai/cookbooks/classification_using_confidence) - Report a fine label only when confidence is high; otherwise climb the hierarchy.
 - [Structure recovery](https://docs.typesafe.ai/cookbooks/autoformat) - Reconstruct Markdown from de-formatted plain text.
 - [Self-consistency: nouls](https://docs.typesafe.ai/cookbooks/consistency_noul_cookbook) / [choices](https://docs.typesafe.ai/cookbooks/consistency_choice_cookbook) - Route uncertain probabilities to review without hiding the raw values.
+- [Jev Cookbook](https://github.com/nexibeo/jev-cookbook) - Community cookbook: 15 runnable Node recipes that pass tickets, table rows, documents, invoices and emails as state, ask Choice, Noul and Score questions in one call, and keep thresholds, review bands and actions in code.
 
 ## Benchmarks and evaluations
 

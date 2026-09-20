@@ -305,6 +305,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [citation-verifier](https://github.com/MarissaFamularo/citation-verifier) - Checks whether each cited paper actually supports the sentence citing it: Claude locates the quote, Jev scores the support, a human makes the final call.
 - [LegalForecast-MTD](https://github.com/johnhughes3/LegalForecastBench) - Benchmark that asks Jev to predict federal motion-to-dismiss rulings, scored with claim-defendant micro-Brier metrics.
 - [Smart home assistant demo](https://docs.typesafe.ai/demos/smart-home) - Official interactive demo of speculative fan-out: many questions in one call, code keeps the relevant answers, LLM only for splits and chit-chat.
+- [SmartMoney-Cub](https://github.com/myc0576/Smartmoney-Cub) - Experimental, read-only trading journal and review harness: post-trade journals, filing excerpts, industry-event wires and central-bank statements go in as state; Jev answers Choice, Noul and Score questions about evidence sufficiency, counter-evidence, failure mode and policy stance; and the code keeps those typed answers as review evidence for a human to promote or reject, without ever placing an order.
 
 ### Robotics and hardware
 

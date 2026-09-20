@@ -473,6 +473,7 @@ Independent work inspired by Jev's interface. These are not TypeSafe models.
 - [jevmlx](https://github.com/bnsd55/jevmlx) - Jev-style parallel constrained decisions for any MLX model on Apple Silicon: schema-valid JSON in one forward pass.
 - [JEVfire](https://github.com/kikoncuo/jevfire) - Jev-inspired parallel decisions for CUDA LLMs via vLLM, with a browser Mario demo (~71 ms/action locally).
 - [decider](https://github.com/Mapika/decider) - Qwen3.5-2B fine-tune that emits typed decisions with calibrated probabilities in one pass.
+- [PlayJev](https://github.com/OmniJev/PlayJev) - Plays ten browser games from the frame alone: a fine-tuned Qwen3.5-0.8B reads the option letters and returns one move per forward pass, with open weights and a browser demo.
 - [Parallel Constrained Decoding (Qwen2.5-1B-RLCD)](https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding) - Hugging Face space exploring open-source RLCD-style parallel constrained decoding.
 - [eve-rlcd](https://github.com/anthony-maio/eve-rlcd) - Jev-inspired 0.6B decision model trained with reinforcement learning from right/wrong feedback only (reward: outcome minus stated probability); answers parallel Choice, Score and Noul questions over one state without generating text, with an RLVR ablation and [open weights](https://huggingface.co/anthonym21/qwen3-0.6b-rlcd-decision). Explicitly not a reproduction of TypeSafe's method.
 

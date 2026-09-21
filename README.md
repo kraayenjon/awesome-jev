@@ -296,6 +296,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [pi-jev-router](https://github.com/mejiasd3v/pi-jev-router) - Automatic per-request model routing for the Pi coding agent through Jev decisions on Vercel AI Gateway.
 - [jcm-router](https://github.com/adarshmishra07/jcm-router) - Local proxy that picks the Claude model and reasoning effort per message while leaving the cached main chat untouched.
 - [jev-agent-skill-router](https://github.com/GodsBoy/jev-agent-skill-router) - Routes agent skill selection through typed, confidence-aware decisions so weak matches are declined instead of guessed.
+- [Jevonian](https://github.com/xinyao27/jevonian) - Local OpenAI, Anthropic, and Responses-compatible proxy where one Jev call answers both the model route and the thinking level for the virtual model jevonian/auto, from session state, quota health, candidate capabilities, and cache-switch penalties; code filters candidates by wire protocol, context window, effort floor, and spent quota windows before Jev is asked, and a pinned model ID or explicit jevonian route skips Jev entirely.
 
 ### Business and vertical apps
 

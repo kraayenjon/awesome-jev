@@ -287,6 +287,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [jev-eval-agent](https://github.com/vinilana/jev-eval-agent) - Public eval harness for early Jev tests.
 - [Supercov](https://github.com/supercorp-ai/supercov) - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first.
 - [jev-commit](https://github.com/valentynkit/jev-commit) - Pre-commit hook where one Jev call judges whether the commit message matches the staged diff, checks for debug leftovers and unmentioned work, and blocks the commit only when it detects a credential.
+- [pytest-jev](https://github.com/allebee/pytest-jev) - pytest plugin for testing LLM output: the text under test is the state, each plain-English claim becomes a Noul (all claims about one text in one request, with Choice and Score for routing and tone), and the test passes a claim at p ≥ 0.8, fails it at p ≤ 0.2 or when Jev is unsure, and prints every claim's probability.
 
 ### Model routing
 

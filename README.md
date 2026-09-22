@@ -281,6 +281,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [jev-resilience](https://github.com/Vicente-MD/jev-resilience) - Spring WebFlux starter: a semantic circuit breaker that uses Jev to catch silent HTTP 200 failures.
 - [tripwire](https://github.com/noelzappy/tripwire) - AI SDK middleware and OpenAI-compatible proxy: seven Jev checks on every LLM response in ~100 ms, confidence-gated.
 - [ProgressGate](https://github.com/AshutoshVJTI/progressgate) - Detects semantic stagnation in agent loops: Jev judges the trajectory; code returns CONTINUE / WARN / REPLAN / HALT.
+- [DGP (Decision Graph Protocol)](https://github.com/numerous-com/dgp) - Experimental protocol for agents that decide before they act: Jev assesses framed evidence with typed choices (proceed, escalate, abstain); deterministic code checks permissions, freshness and commit guards before any action. Python/SQLite demo with a Jev resolver; actions simulated.
 - [jev-harness](https://github.com/AntonioCoppe/jev-harness) - Production layer around Jev: policy, confidence gate, shadow mode, recipes, and an eval CLI.
 - [jev-tree](https://github.com/reachjalil/jev-tree) - Recursive Choice over a taxonomy so catalogs larger than Jev's 255-option cap still fit.
 - [Notra](https://github.com/usenotra/notra) - Marketing analytics: its `NOTRA_JEV_CLASSIFIERS` flag routes brand-visibility classifiers off an LLM and onto Jev boolean decisions at a 0.5 threshold, targeting 300 ms p50.

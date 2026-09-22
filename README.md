@@ -371,6 +371,7 @@ Tools that expose Jev to coding agents and MCP clients.
 - [jev-judgment](https://github.com/HyunjunJeon/jev-judgment) - Agent skill that sends closed coding-agent judgments to Jev so verdicts stay typed, cheap, and comparable across runs.
 - [pi-typesafe-jev](https://github.com/legacybridge-tech/pi-typesafe-jev) - Exposes System One judgments as five Pi tools; code and users keep control of thresholds, weights, and actions.
 - [limpet](https://github.com/noplan-inc/limpet) - Stop hook that keeps an agent from finishing too early by judging plain-language completion rules with Jev.
+- [TruthGate](https://github.com/satangel2222/truthgate) - Stop hook and deterministic gatekeeper for Claude Code, Cursor, and Antigravity: uses parallel Jev Nouls to block fake completions and passive nagging before physical exit code and screenshot verification.
 - [jev-guard](https://github.com/leepokai/jev-guard) - Prompt-injection and dangerous-action guard for Claude Code, Codex, Pi, and ACP agents.
 - [dsh-auto-mode](https://git.allen-software.com/allenh1/dsh-auto-mode) - DeepSeek Harness permission preset whose end-prompt step has Jev answer the open questions an agent leaves in its final message.
 - [jev-belay](https://github.com/valentynkit/jev-belay) - Claude Code Stop hook that reads the transcript for evidence of a completed task and, only when files changed with no passing check since, spends one four-question Jev call before allowing the agent to stop, failing open on every error path.

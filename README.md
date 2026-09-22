@@ -265,6 +265,8 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [1kpapers](https://www.1kpapers.com/) - 1,018 papers classified by topic and published as a browsable site.
 - [jev.nvim](https://github.com/valentynkit/jev.nvim) - Neovim plugin that splits the current buffer into functions with Treesitter, asks Jev a plain-language question against each one, and lists the answers in the quickfix window ranked by probability.
 
+- [Vector Graph RAG](https://github.com/zilliztech/vector-graph-rag) - Given a query and candidate graph relations, an optional Jev Noul reranker scores their relevance while application code filters and orders relations before retrieving supporting documents.
+
 → [More research and data builds on madewithjev.com](https://madewithjev.com/categories/research-and-data)
 
 ### Developer tools and code review

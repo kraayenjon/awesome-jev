@@ -343,6 +343,7 @@ Toys, live sites, and realtime agents. Most shipped in the first days after laun
 - [got-jev](https://github.com/phureewat29/got-jev) - Game of Thrones roleplay: a story model writes the scene; Jev answers where Jon Snow is, how much danger, and what should play under it.
 - [Little Airways](https://github.com/lbotinelly/jev-little-airways) - Toy archipelago air-traffic control: divert / emergency / who lands first, ~150 ms.
 - [jev-plays-pokemon-red](https://github.com/valentynkit/jev-plays-pokemon-red) - Pokemon Red on PyBoy where code owns the route and the arithmetic, Jev picks only at branches, and every battle turn logs a faint prediction scored by Brier against what the RAM says.
+- [HR tool pile](https://dormytech.com/jev) - Describe an HR problem in plain words; one Noul per tool asks whether it is one of the best answers, a separate Choice reads company size, and code applies both before lifting the matching tools out of a pile of 50 HR logos.
 
 → [More games and real-time builds on madewithjev.com](https://madewithjev.com/categories/games-and-real-time)
 

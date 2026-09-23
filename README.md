@@ -257,6 +257,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [Every](https://github.com/sufianetaouil/every) - Semantic code-search CLI: a yes/no question against every function, ranked by Noul probability.
 - [blink](https://github.com/ellipsis-dev/blink) - Codebase search: an ensemble of walkers asks Jev which file answers a natural-language query.
 - [Jev Search](https://github.com/superagents-lab/jev-search) - Web search app using Choice and Noul judgments to select sources, time ranges, and query candidates, then rank results retrieved through Search1API. Live demo: [jev.s1.dev](https://jev.s1.dev).
+- [jevsearch](https://github.com/kylemclaren/jevsearch) - Site search as a shadcn/ui registry block: keyword hits show on the first keystroke, then one request asks Jev a Noul per candidate page plus a Choice over all of them, re-orders the top 20, and keeps keyword order if the call fails; distinct from superagents-lab/jev-search.
 - [neo4jev](https://github.com/jexp/neo4jev) - Neo4j graph navigation: at each node Jev chooses which relationship to follow, with beam search over log-probabilities.
 - [jev-bfs](https://github.com/komikat/jev-bfs) - Finds link paths between Wikipedia articles; Jev ranks each page's outgoing links while Python controls the search.
 - [hono-jev-router](https://github.com/yusukebe/hono-jev-router) - Experimental Hono router: Jev matches an incoming request to a plain-language route description.

@@ -287,6 +287,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [jev-eval-agent](https://github.com/vinilana/jev-eval-agent) - Public eval harness for early Jev tests.
 - [Supercov](https://github.com/supercorp-ai/supercov) - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first.
 - [jev-commit](https://github.com/valentynkit/jev-commit) - Pre-commit hook where one Jev call judges whether the commit message matches the staged diff, checks for debug leftovers and unmentioned work, and blocks the commit only when it detects a credential.
+- [jgrep](https://github.com/kyu1204/jgrep) - Evaluates code chunks, git diff hunks, or CSV rows against a description with one Noul each, 16 per request; `--diff` turns the answer into grep exit codes for a CI gate and `--tests` returns the test files a diff plausibly affects.
 
 ### Model routing
 

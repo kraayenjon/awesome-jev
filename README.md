@@ -255,6 +255,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 ### Search, retrieval, and data
 
 - [Every](https://github.com/sufianetaouil/every) - Semantic code-search CLI: a yes/no question against every function, ranked by Noul probability.
+- [JevPDF](https://github.com/kylemclaren/jevpdf) - Ctrl+F by meaning for PDFs: pdf.js extracts each line in the browser, Jev answers a Noul per line ("does this line answer the query?") in batches of 16, and matching lines highlight page by page ranked by probability.
 - [blink](https://github.com/ellipsis-dev/blink) - Codebase search: an ensemble of walkers asks Jev which file answers a natural-language query.
 - [Jev Search](https://github.com/superagents-lab/jev-search) - Web search app using Choice and Noul judgments to select sources, time ranges, and query candidates, then rank results retrieved through Search1API. Live demo: [jev.s1.dev](https://jev.s1.dev).
 - [neo4jev](https://github.com/jexp/neo4jev) - Neo4j graph navigation: at each node Jev chooses which relationship to follow, with beam search over log-probabilities.

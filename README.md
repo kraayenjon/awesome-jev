@@ -264,6 +264,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [jev-curate](https://github.com/AkashPriyadarshii/jev-curate) - High-throughput synthetic dataset sifter in Rust: Noul checks on JSONL and Parquet rows, streaming clean and rejected rows to disk.
 - [1kpapers](https://www.1kpapers.com/) - 1,018 papers classified by topic and published as a browsable site.
 - [jev.nvim](https://github.com/valentynkit/jev.nvim) - Neovim plugin that splits the current buffer into functions with Treesitter, asks Jev a plain-language question against each one, and lists the answers in the quickfix window ranked by probability.
+- [jevql](https://github.com/kylemclaren/jevql) - psql-style client for vanilla PostgreSQL: the plain SQL runs on the server, Jev answers the `jev()` / `jev_prob` / `jev_choice` / `jev_score` calls on the rows it returns, and the client applies the filter, sort, or group.
 
 → [More research and data builds on madewithjev.com](https://madewithjev.com/categories/research-and-data)
 

@@ -292,6 +292,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 
 - [jev-router](https://github.com/gargpratyush/jev-router) - Per-turn routing for Claude Code and Codex: simple work to the fast tier, hard work to the strong tier. `npm i -g jev-router`.
 - [jev-codex-router](https://github.com/0xNatoshi/jev-codex-router) - Per-turn Codex routing: Jev picks model, thinking depth, and speed mode.
+- [Codex Jev Router](https://github.com/suenot/codex-jev-router) - Uses Jev Choice and Noul decisions to choose Codex subagent model and reasoning effort, falling back to Sol when uncertain.
 - [jev-router (prismhq)](https://github.com/prismhq/jev-router) - Open-source LiteLLM-based router where a Jev decision picks which model serves each request.
 - [pi-jev-router](https://github.com/mejiasd3v/pi-jev-router) - Automatic per-request model routing for the Pi coding agent through Jev decisions on Vercel AI Gateway.
 - [jcm-router](https://github.com/adarshmishra07/jcm-router) - Local proxy that picks the Claude model and reasoning effort per message while leaving the cached main chat untouched.

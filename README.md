@@ -227,6 +227,8 @@ Official first, then community clients. Community packages are not affiliated wi
 - Rust: [typesafe-ai-rs](https://github.com/gilljon/typesafe-ai-rs) - async and blocking client. Also [Twister915/typesafe-ai](https://github.com/Twister915/typesafe-ai) - observable retries; [typesafe-rs](https://github.com/AbdelStark/typesafe-rs) - latency-focused transport; [s1-rs](https://github.com/AbdelStark/s1-rs) - derive layer for Choice / Score / Noul with confidence gates and network-free tests.
 - PHP / Laravel: [typesafe-sdk-php](https://github.com/Butochnikov/typesafe-sdk-php) - typed DTOs and promises. Plus [laravel-typesafe-jev](https://github.com/Butochnikov/laravel-typesafe-jev) - Laravel 12/13 config, facade, scoped DI, and a recording fake.
 - Python: [jevclient](https://github.com/AboveColin/jevclient) - async client (`pip install jevclient`), separate from the official SDK.
+- Python: [jevhttp](https://github.com/XUEHANGAI/jevhttp) - Local-model-first Python toolkit for HTTP page extraction and structured Choice, Boolean, and Score decisions through OpenAI-compatible inference
+  endpoints.
 - Swift: [swift-typesafe](https://github.com/ainame/swift-typesafe) - Swift 6.4 client aligned with the Python SDK 0.6.0 API, including Linux.
 - Scala / ZIO: [zio-typesafe-ai](https://github.com/jamesward/zio-typesafe-ai) - ZIO client with a small DSL for noul / choice / score.
 - .NET: [typesafe-dotnet-sdk](https://github.com/saibimajdi/typesafe-dotnet-sdk) - typed questions and confidence-scored answers.

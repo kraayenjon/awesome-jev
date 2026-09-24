@@ -244,6 +244,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [jev-ego](https://github.com/romaluev/jev-ego) - Browser agent on ego lite: one TypeSafe request picks operation + indexed element; agent-facing observe/act/suggest/step CLI.
 - [jev-browser](https://github.com/Ying-Kai-Liao/jev-browser) - An LLM plans the outcome, Jev decides each click/type on a Playwright snapshot (~300 ms/call). Ships as a library, CLI, and MCP server.
 - [Jev Browser (Vlad Terin)](https://github.com/vlad-terin/jev-browser) - Agent skill + runtime: Codex plans, Jev selects elements, a runner acts and verifies each step.
+- [Jev Social](https://github.com/socai-io/jev-social) - Local Instagram, TikTok, and LinkedIn research loop: Jev uses Choice to select a platform and a concrete read-only operation from captured evidence, then the socai CLI executes that browser step and returns new evidence.
 - [typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) - macOS computer-use loop: OCR the screen, Jev classifies the next action, then click. About $0.0002/step.
 - [Mobile Jev](https://github.com/droidrun/mobile-jev) - Android agent on Mobilerun: Jev decides each tap. Opens Uber, SFO → Golden Gate, payment screen in ~21 s / 9 actions. No ADB.
 - [Unclutter](https://github.com/kitze/unclutter) - Chrome / Firefox extension: Jev classifies nonessential page elements; local template rules hide them on later visits.

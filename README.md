@@ -221,6 +221,7 @@ Official first, then community clients. Community packages are not affiliated wi
 
 **Community, by language**
 
+- [Milvus Model](https://github.com/milvus-io/milvus-model) - Python reranker adapter that sends candidate documents as Jev Noul questions in one request, then sorts the returned scores and preserves original document indices.
 - Go: [jev-go](https://github.com/Gaurav-Gosain/jev-go) - `go get github.com/Gaurav-Gosain/jev-go`. Also [Stumble/jev-go](https://github.com/Stumble/jev-go) - dependency-free, works against TypeSafe direct and Vercel AI Gateway, with an interactive CLI and an installable agent skill.
 - Elixir: [typesafe_sdk](https://github.com/nshkrdotcom/typesafe_sdk) - Hex package for `system_one` and model listing. Also [Jev (OTP)](https://github.com/dannote/jev) - Jev as a peer GenServer; answers arrive as messages you pattern-match, with network-free tests.
 - Ruby: [typesafe-sdk](https://github.com/joshmn/typesafe-sdk) - Ruby 3.1+, retries, thread-safe pooled HTTP. Also [RubyLLM TypeSafe](https://github.com/kieranklaassen/ruby_llm-typesafe) - TypeSafe provider for RubyLLM 2. And [typesafe-ai-rails](https://github.com/GenieRobot/typesafe-ai-rails) - Rails integration with usage telemetry and opt-in confidence policies.

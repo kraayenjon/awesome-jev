@@ -447,6 +447,7 @@ Official, copy-pasteable workflows. Full index: [console cookbooks](https://cons
 
 Official numbers are vendor-reported; these community efforts measure for themselves.
 
+- [Jev in Search: Three Practical Evaluations](https://zc277584121.github.io/rag/2026/09/22/jev-search-deep-evaluation.html) - Independent experiments on search stopping, memory reranking, and multi-hop relation selection, with implementation links and limitations including private data, unequal sample counts, and a simulated speed illustration.
 - [Workflow evals](https://evals.typesafe.ai) - Official: four automation workflows, accuracy/cost/time per case, Jev vs frontier models.
 - [typesafe-ai-benchmark](https://github.com/iammrduncan/typesafe-ai-benchmark) - Jev vs Qwen 3.8 27B on Cerebras for the same System One questions.
 - [Jev Rerank Bench](https://github.com/anessbelbati/jev-rerank-bench) - Reranking comparison with raw provider responses, scoring code, and uncertainty intervals.

@@ -312,6 +312,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [Smart home assistant demo](https://docs.typesafe.ai/demos/smart-home) - Official interactive demo of speculative fan-out: many questions in one call, code keeps the relevant answers, LLM only for splits and chit-chat.
 - [SmartMoney-Cub](https://github.com/myc0576/Smartmoney-Cub) - Experimental, read-only trading journal that passes filings, event wires and central-bank statements to Jev for typed Choice, Noul and Score answers on evidence and policy stance, keeping a human in the promote/reject loop and never placing an order.
 - [Jev Web Analyzer](https://github.com/replynodes/jev-web-analyzer) - Product evaluation: evaluates a public SaaS landing page as clean Markdown with ten bounded Jev `Choice` questions about first-visit understanding, leaving validation, policy, and presentation in application code.
+- [Refix](https://refix.ai) - Evaluates a product's growth state from experiment, SEO, content, and ad signals; asks typed questions about which growth action to take next; the application runs the chosen experiment, SEO, content, or ad action on autopilot.
 
 ### Robotics and hardware
 

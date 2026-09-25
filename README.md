@@ -475,6 +475,7 @@ Independent work inspired by Jev's interface. These are not TypeSafe models.
 - [decider](https://github.com/Mapika/decider) - Qwen3.5-2B fine-tune that emits typed decisions with calibrated probabilities in one pass.
 - [Parallel Constrained Decoding (Qwen2.5-1B-RLCD)](https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding) - Hugging Face space exploring open-source RLCD-style parallel constrained decoding.
 - [eve-rlcd](https://github.com/anthony-maio/eve-rlcd) - Jev-inspired 0.6B decision model trained with reinforcement learning from right/wrong feedback only (reward: outcome minus stated probability); answers parallel Choice, Score and Noul questions over one state without generating text, with an RLVR ablation and [open weights](https://huggingface.co/anthonym21/qwen3-0.6b-rlcd-decision). Explicitly not a reproduction of TypeSafe's method.
+- [RSI-Jev](https://github.com/Shanghua-Gao/RSI-Jev) - Jev-inspired open 0.8B and 2B models that read a document, answer `Choice`, `Score` and `Noul` questions in one forward pass over the same `POST /v1/systemone` schema, and hand back a probability per option that the caller thresholds — measured so that no confidence bin falls below its stated probability and acting on the top 40% by confidence is 80% correct.
 
 ## Articles and coverage
 

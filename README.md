@@ -549,6 +549,7 @@ TypeSafe's name for a model class built for fast, structured decisions inside so
 - [awesome-jev (cobanov)](https://github.com/cobanov/awesome-jev) - Curated, source-backed list of Jev projects, sorted by decision domain.
 - [awesome-jev-by-typesafe (Anil-matcha)](https://github.com/Anil-matcha/awesome-jev-by-typesafe) - Evidence-backed use cases, patterns, and starter code.
 - [awesome-jev-typesafe (valentynkit)](https://github.com/valentynkit/awesome-jev-typesafe) - CC0, awesome-lint clean, sorted by what you would install, with a short know-before-you-build section on the limits.
+- [laya.tools](https://laya.tools) - Directory of projects built on Laya, the open-source (Apache-2.0) System One typed-decision model from ConvAI Innovations (not a TypeSafe model), browsable by platform and use case, with a Laya vs Jev comparison.
 - [typesafe-ai on PyPI](https://pypi.org/project/typesafe-ai/) - Community redirect shim; the real package is `typesafe-sdk`. Registered to block slopsquatting.
 
 ## Contribute

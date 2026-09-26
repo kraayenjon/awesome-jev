@@ -490,6 +490,7 @@ Independent work inspired by Jev's interface. These are not TypeSafe models.
 - [TypeSafeのJevを正しく驚く、それってLLMでできませんか？](https://zenn.dev/nwn/articles/824026c76116e0) - (Japanese) Reproduces the JSON-vs-logit shortcut on Gemma and compares Jev with LLMs on the public Mario harness.
 - [jev 同士に五目並べで対戦させた](https://zenn.dev/mizchi/articles/jev-plays-gomoku) - (Japanese) Jev vs Jev gomoku with source and timing logs.
 - [Jev on AI Wiki](https://aiwiki.ai/wiki/jev) - Community-maintained reference page.
+- [Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem](https://arxiv.org/abs/2609.30216) - The first data-driven survey and analysis of Jev's application ecosystem examines 2,170 public GitHub projects, early growth, application domains, and decision-use patterns.
 
 ## Discussions
 

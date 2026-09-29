@@ -424,6 +424,7 @@ Toys, live sites, and realtime agents. Most shipped in the first days after laun
 - [Little Airways](https://github.com/lbotinelly/jev-little-airways) - Toy archipelago air-traffic control: divert / emergency / who lands first, ~150 ms.
 - [jev-plays-pokemon-red](https://github.com/valentynkit/jev-plays-pokemon-red) - Pokemon Red on PyBoy where code owns the route and the arithmetic, Jev picks only at branches, and every battle turn logs a faint prediction scored by Brier against what the RAM says.
 - [HR tool pile](https://dormytech.com/jev) - Describe an HR problem in plain words; one Noul per tool asks whether it is one of the best answers, a separate Choice reads company size, and code applies both before lifting the matching tools out of a pile of 50 HR logos.
+- [1 Million Emojis](https://chriswijnia.com/lab/emoji) - Shared 1000 × 1000 emoji canvas: after each stroke Jev gets the scene as state, answers a Choice over named emoji and square pairs plus a Noul on whether the stroke is unfinished, and the code finishes the shape or samples the pick from the probabilities ([source](https://github.com/cwdx/1-million-emojis)).
 
 → [More games and real-time builds on madewithjev.com](https://madewithjev.com/categories/games-and-real-time)
 

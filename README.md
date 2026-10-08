@@ -375,6 +375,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [jev-agent-skill-router](https://github.com/GodsBoy/jev-agent-skill-router) - Routes agent skill selection through typed, confidence-aware decisions so weak matches are declined instead of guessed.
 - [langchain-skill-router](https://github.com/deyna256/langchain-skill-router) - Reads the user's request plus the recent conversation, asks Jev one Choice over the SKILL.md catalog together with a "does this need a skill at all" gate and a per-candidate fit question, and the middleware loads one skill's instructions, offers up to three candidates, or nothing.
 - [Jevonian](https://github.com/xinyao27/jevonian) - Local OpenAI, Anthropic, and Responses-compatible proxy where one Jev call answers both the model route and the thinking level for the virtual model jevonian/auto, from session state, quota health, candidate capabilities, and cache-switch penalties; code filters candidates by wire protocol, context window, effort floor, and spent quota windows before Jev is asked, and a pinned model ID or explicit jevonian route skips Jev entirely.
+- [jev-skill-router](https://github.com/shimo4228/jev-skill-router) - Experimental Claude Code hook, since removed from the author's own setup: on each prompt Jev answers Choice and Noul questions over the installed skills, and the code logs the suggested skill or, in inject mode, adds a one-line hint to the turn.
 
 ### Business and vertical apps
 

@@ -672,6 +672,7 @@ TypeSafe's name for a model class built for fast, structured decisions inside so
 - [awesome-jev (verified catalog)](https://github.com/heyjunpenn/awesome-jev) - A community-maintained catalog that claims 433 verified open-source projects.
 - [Papers and open reproductions](https://github.com/OmniJev/awesome-jev) - The papers, open reproductions and independent evaluations behind System One models.
 - [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev) - A source-backed project directory with a GitHub review workflow that uses only Jev.
+- [Jevfast](https://jevfast.com/) - Jev AI use-case directory with source-code analysis and visual explanations of what Jev decides in each analyzed project.
 
 ## Related lists
 

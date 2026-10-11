@@ -339,6 +339,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [Milvus Model](https://github.com/milvus-io/milvus-model) - Python reranker adapter that sends candidate documents as Jev Noul questions in one request, then sorts the returned scores and preserves original document indices.
 - [Vector Graph RAG](https://github.com/zilliztech/vector-graph-rag) - Given a query and candidate graph relations, an optional Jev Noul reranker scores their relevance while application code filters and orders relations before retrieving supporting documents.
 - [Milvus Search with Jev](https://github.com/milvus-io/bootcamp/tree/master/bootcamp/RAG/search_with_jev) - Community cookbook with nine runnable Python notebooks combining Gemini embeddings, Milvus retrieval, and Jev decisions for reranking, filtering, search stopping, routing, cache reuse, curation, guardrails, and evaluation.
+- [jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) - Daily research monitor (pilot): for each new paper or repository Jev answers whether it helps answer one of the user's open questions and which sentence is the evidence, the code sorts it into keep, review or drop by probability thresholds, and a separate LLM writes the Markdown note.
 
 → [More search and reranking builds on madewithjev.com](https://madewithjev.com/categories/search)
 

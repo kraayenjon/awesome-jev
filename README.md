@@ -436,6 +436,7 @@ Tools that expose Jev to coding agents and MCP clients.
 - [AI CLI](https://github.com/vercel-labs/ai-cli) - Vercel Labs CLI that can run Jev as the evaluation model for its `evaluate` command.
 - [jev-mcp (jkudish)](https://github.com/jkudish/jev-mcp) - Node MCP wrapping three cookbook patterns: `jev_verify` (citation check), `jev_screen` (prompt-injection guardrails), `jev_find` (semantic ranking without embeddings). `npx -y github:jkudish/jev-mcp`.
 - [jev-mcp (blakestone-x)](https://github.com/blakestone-x/jev-mcp) - Python MCP server: classify, score, check, match, and screen tools.
+- [Viorant JEV MCP](https://www.viorant.ai/jev) - Evaluates text or JSON state using typed yes/no, choice, and ordered-score questions, then returns calibrated probabilities your code can use to route, verify, screen, rank, or escalate, with up to 25M JEV input tokens free for the first 1,000 users.
 - [Jev Review MCP](https://github.com/NiazMorshed2007/jev-review) - Local-first MCP: Claude Code, Codex, Cursor, and OpenCode get structured quality review from Jev while they write.
 - [typesafe-mcp](https://github.com/itsmostafa/typesafe-mcp) - Go CLI and single-binary MCP for Claude Desktop, Claude Code, and Codex.
 - [Jevbridge](https://github.com/gamesonrblx/Jevbridge) - ACP/MCP adapter: typed Jev decisions and computer use beside Codex, Claude, Grok, and OpenCode.

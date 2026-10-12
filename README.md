@@ -392,6 +392,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [SmartMoney-Cub](https://github.com/myc0576/Smartmoney-Cub) - Experimental, read-only trading journal that passes filings, event wires and central-bank statements to Jev for typed Choice, Noul and Score answers on evidence and policy stance, keeping a human in the promote/reject loop and never placing an order.
 - [Jev Web Analyzer](https://github.com/replynodes/jev-web-analyzer) - Product evaluation: evaluates a public SaaS landing page as clean Markdown with ten bounded Jev `Choice` questions about first-visit understanding, leaving validation, policy, and presentation in application code.
 - [profanity-checker](https://github.com/4rays/profanity-checker) - Cloudflare Workers profanity filter: state is the text or username, Jev answers a `Noul` for literal profanity and a `Noul` for phonetic/look-alike disguise (one parallel inference call), and the Worker applies a 0.5 threshold and returns a typed `is_profane` verdict.
+- [Jev Chat Assistant](https://github.com/jev-chat/jev-chat-jarvis) - State is the visible QQ, X, Feishu/Lark or WhatsApp chat read by an Android accessibility service; Jev answers Choice questions on intent, needs, and next action, a Score for danger, and Noul checks on subtext and tension, then a Choice ranks three drafted replies, and the app fills the pick into the input box without sending.
 
 ### Robotics and hardware
 

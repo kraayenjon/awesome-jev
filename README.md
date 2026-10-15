@@ -562,6 +562,7 @@ Independent work inspired by Jev's interface. These are not TypeSafe models.
 - [RSI-Jev](https://github.com/Shanghua-Gao/RSI-Jev) - Jev-inspired open 0.8B and 2B models that read a document, answer `Choice`, `Score` and `Noul` questions in one forward pass over the same `POST /v1/systemone` schema, and hand back a probability per option that the caller thresholds to a result the repository measures against its own confidence bins.
 - [Verdict](https://github.com/Manavarya09/verdict) - Jev-inspired open (Apache-2.0) decision model: 118M multilingual bi-encoder answering Choice / Score / Noul on the same `POST /v1/systemone` wire format, with temperature scaling plus a conformal abstain set, runs on CPU or in the browser via ONNX, fits on your own labels in seconds; the README says it loses to Laya on typed decisions.
 - [jevos](https://github.com/feder-cr/jev) - A 1B model (MiniCPM) cut to 17 layers with a one-logit output head, serving Noul-only decisions from open GGUF weights (619 MB) over llama.cpp on CPU, no GPU. Explicitly not a reproduction of TypeSafe's architecture.
+- [Dwight 4B](https://huggingface.co/zime-ai/dwight-4b) - Jev-inspired open (Apache-2.0) 4B model for sales calls, fine-tuned from Qwen3-4B-Instruct-2507: reads a full call transcript and answers a typed question (yes/no, Choice, or 0-10 Score) with one option token and a probability per option, and also writes structured JSON insights with verbatim quotes from the call. Explicitly not a reproduction of TypeSafe's method.
 
 ## Articles and coverage
 

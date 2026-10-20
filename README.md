@@ -544,6 +544,7 @@ Official numbers are vendor-reported; these community efforts measure for themse
 - [Smoking-history extraction benchmark](https://github.com/vclic/smoking-extraction-benchmark) - 1,000 synthetic notes: Jev vs OpenAI structured outputs on accuracy, cost, and latency.
 - [Jev Playground](https://github.com/hegargarcia/jev-playground) - Benchmarks Jev against Luna, Haiku, and Gemini at choosing validated legal moves in explicit-state games.
 - [jev-research-eval](https://github.com/jgridifier/jev-research-eval) - Reproducible eval harness plus field note for Jev Ultrafast research-browser tasks.
+- [Decision Models as Guardrails](https://github.com/raxITlabs/decision-models-as-guardrails) - Jev 1.13.0 and 1.14.0 answer each of 9,975 labelled guardrail checks as a Noul question and code blocks at a probability of 0.5 or more; 16 other decision models and Amazon Bedrock Guardrails run the same rows.
 
 ## Research and open models
 

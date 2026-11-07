@@ -318,6 +318,7 @@ Open-source projects that put Jev in a real loop. Grouped by what Jev decides.
 - [TypeSafe AdBlock](https://github.com/realZachi/typesafe-adblock) - Chrome extension: Jev judges whether a DOM element is an ad and removes it. BYOK, no backend; a demo, not a real ad blocker.
 - [jev-skip](https://github.com/valentynkit/jev-skip) - Browser extension that reads a YouTube video's caption track and paints a per-segment sponsor probability on the seek bar before the intro ends, with no crowdsourced database.
 - [Jev Social](https://github.com/socai-io/jev-social) - Local Instagram, TikTok, and LinkedIn research loop: Jev uses Choice to select a platform and a concrete read-only operation from captured evidence, then the socai CLI executes that browser step and returns new evidence.
+- [OnlyRead](https://github.com/onlyreadai/onlyread) - Chrome extension that keeps AI agents read-only on the sites you pick: Jev judges whether each request the agent's browser sends would change data, and the extension blocks the ones that would.
 
 → [More agents and browsers on madewithjev.com](https://madewithjev.com/categories/agents-and-browsers)
 
